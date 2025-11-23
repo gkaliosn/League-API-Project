@@ -1,0 +1,788 @@
+{
+    "augments": [
+        {
+            "id": 93,
+            "name": "Warmup Routine"
+        },
+        {
+            "id": 89,
+            "name": "Vanish"
+        },
+        {
+            "id": 166,
+            "name": "Chain Lightning"
+        },
+        {
+            "id": 323,
+            "name": "Cerberus"
+        },
+        {
+            "id": 87,
+            "name": "Typhoon"
+        },
+        {
+            "id": 108,
+            "name": "Self Destruct"
+        },
+        {
+            "id": 120,
+            "name": "Serve Beyond Death"
+        },
+        {
+            "id": 66,
+            "name": "Quantum Computing"
+        },
+        {
+            "id": 23,
+            "name": "Demon's Dance"
+        },
+        {
+            "id": 21,
+            "name": "Defensive Maneuvers"
+        },
+        {
+            "id": 243,
+            "name": "Transmute: Chaos"
+        },
+        {
+            "id": 14,
+            "name": "Chauffeur"
+        },
+        {
+            "id": 129,
+            "name": "Marksmage"
+        },
+        {
+            "id": 231,
+            "name": "Light Warden"
+        },
+        {
+            "id": 318,
+            "name": "Quest: Mad Hatter"
+        },
+        {
+            "id": 6,
+            "name": "Blade Waltz"
+        },
+        {
+            "id": 94,
+            "name": "Willing Sacrifice"
+        },
+        {
+            "id": 308,
+            "name": "Firefox"
+        },
+        {
+            "id": 223,
+            "name": "Summoner Revolution"
+        },
+        {
+            "id": 44,
+            "name": "Ice Cold"
+        },
+        {
+            "id": 214,
+            "name": "Spin To Win"
+        },
+        {
+            "id": 5,
+            "name": "Banner of Command"
+        },
+        {
+            "id": 80,
+            "name": "Tank It Or Leave It"
+        },
+        {
+            "id": 97,
+            "name": "Witchful Thinking"
+        },
+        {
+            "id": 154,
+            "name": "Quest: Urf's Champion"
+        },
+        {
+            "id": 90,
+            "name": "Vengeance"
+        },
+        {
+            "id": 28,
+            "name": "Erosion"
+        },
+        {
+            "id": 226,
+            "name": "Stats!"
+        },
+        {
+            "id": 54,
+            "name": "Master of Duality"
+        },
+        {
+            "id": 51,
+            "name": "Light 'em Up!"
+        },
+        {
+            "id": 72,
+            "name": "Searing Dawn"
+        },
+        {
+            "id": 136,
+            "name": "Slap Around"
+        },
+        {
+            "id": 133,
+            "name": "Magic Missile"
+        },
+        {
+            "id": 135,
+            "name": "Spellwake"
+        },
+        {
+            "id": 193,
+            "name": "Center of the Universe"
+        },
+        {
+            "id": 65,
+            "name": "Phenomenal Evil"
+        },
+        {
+            "id": 180,
+            "name": "Big Brain"
+        },
+        {
+            "id": 92,
+            "name": "Vulnerability"
+        },
+        {
+            "id": 10,
+            "name": "Cannon Fodder"
+        },
+        {
+            "id": 233,
+            "name": "Ultimate Roulette"
+        },
+        {
+            "id": 310,
+            "name": "Clown College"
+        },
+        {
+            "id": 251,
+            "name": "Numb to Pain"
+        },
+        {
+            "id": 322,
+            "name": "Augmented Power"
+        },
+        {
+            "id": 53,
+            "name": "Mad Scientist"
+        },
+        {
+            "id": 57,
+            "name": "Mountain Soul"
+        },
+        {
+            "id": 88,
+            "name": "Ultimate Revolution"
+        },
+        {
+            "id": 236,
+            "name": "Trickster Demon"
+        },
+        {
+            "id": 171,
+            "name": "Dematerialize"
+        },
+        {
+            "id": 250,
+            "name": "Slow and Steady"
+        },
+        {
+            "id": 39,
+            "name": "Frost Wraith"
+        },
+        {
+            "id": 79,
+            "name": "Symphony of War"
+        },
+        {
+            "id": 86,
+            "name": "Trueshot Prodigy"
+        },
+        {
+            "id": 30,
+            "name": "Eureka"
+        },
+        {
+            "id": 60,
+            "name": "Ocean Soul"
+        },
+        {
+            "id": 321,
+            "name": "Bodyguard"
+        },
+        {
+            "id": 15,
+            "name": "Circle of Death"
+        },
+        {
+            "id": 156,
+            "name": "Quest: Wooglet's Witchcap"
+        },
+        {
+            "id": 27,
+            "name": "Earthwake"
+        },
+        {
+            "id": 170,
+            "name": "Scoped Weapons"
+        },
+        {
+            "id": 103,
+            "name": "Bread And Butter"
+        },
+        {
+            "id": 82,
+            "name": "The Brutalizer"
+        },
+        {
+            "id": 76,
+            "name": "Sonic Boom"
+        },
+        {
+            "id": 107,
+            "name": "Twice Thrice"
+        },
+        {
+            "id": 239,
+            "name": "Symbiotic Mutation"
+        },
+        {
+            "id": 13,
+            "name": "Celestial Body"
+        },
+        {
+            "id": 324,
+            "name": "Bravest of the Brave"
+        },
+        {
+            "id": 150,
+            "name": "Bread And Jam"
+        },
+        {
+            "id": 98,
+            "name": "With Haste"
+        },
+        {
+            "id": 34,
+            "name": "Fallen Aegis"
+        },
+        {
+            "id": 198,
+            "name": "Holy Fire"
+        },
+        {
+            "id": 311,
+            "name": "Overflow"
+        },
+        {
+            "id": 35,
+            "name": "Feel the Burn"
+        },
+        {
+            "id": 42,
+            "name": "Guilty Pleasure"
+        },
+        {
+            "id": 71,
+            "name": "Scopier Weapons"
+        },
+        {
+            "id": 9,
+            "name": "Buff Buddies"
+        },
+        {
+            "id": 125,
+            "name": "Raid Boss"
+        },
+        {
+            "id": 63,
+            "name": "Outlaw's Grit"
+        },
+        {
+            "id": 26,
+            "name": "Don't Blink"
+        },
+        {
+            "id": 73,
+            "name": "Shadow Runner"
+        },
+        {
+            "id": 45,
+            "name": "Infernal Conduit"
+        },
+        {
+            "id": 205,
+            "name": "ADAPt"
+        },
+        {
+            "id": 4,
+            "name": "Back To Basics"
+        },
+        {
+            "id": 224,
+            "name": "Prismatic Egg"
+        },
+        {
+            "id": 110,
+            "name": "Clothesline"
+        },
+        {
+            "id": 102,
+            "name": "Don't Chase"
+        },
+        {
+            "id": 77,
+            "name": "Soul Siphon"
+        },
+        {
+            "id": 234,
+            "name": "Gamba Anvil"
+        },
+        {
+            "id": 301,
+            "name": "Divine Intervention"
+        },
+        {
+            "id": 84,
+            "name": "Thread the Needle"
+        },
+        {
+            "id": 151,
+            "name": "Bread And Cheese"
+        },
+        {
+            "id": 149,
+            "name": "Impassable"
+        },
+        {
+            "id": 317,
+            "name": "Pandora's Box"
+        },
+        {
+            "id": 33,
+            "name": "Extendo-Arm"
+        },
+        {
+            "id": 75,
+            "name": "Slow Cooker"
+        },
+        {
+            "id": 24,
+            "name": "Die Another Day"
+        },
+        {
+            "id": 404,
+            "name": "404 Augment Not Found"
+        },
+        {
+            "id": 225,
+            "name": "Dual Wield"
+        },
+        {
+            "id": 405,
+            "name": "Augment 405"
+        },
+        {
+            "id": 78,
+            "name": "Spirit Link"
+        },
+        {
+            "id": 217,
+            "name": "Deathtouch"
+        },
+        {
+            "id": 192,
+            "name": "Quest: Angel of Retribution"
+        },
+        {
+            "id": 17,
+            "name": "Contract Killer"
+        },
+        {
+            "id": 138,
+            "name": "Goredrink"
+        },
+        {
+            "id": 312,
+            "name": "We'll Be Right Back"
+        },
+        {
+            "id": 37,
+            "name": "First-Aid Kit"
+        },
+        {
+            "id": 61,
+            "name": "OK Boomerang"
+        },
+        {
+            "id": 319,
+            "name": "Quest: Three Sacred Treasures"
+        },
+        {
+            "id": 49,
+            "name": "Juice Box"
+        },
+        {
+            "id": 115,
+            "name": "Scopiest Weapons"
+        },
+        {
+            "id": 232,
+            "name": "Slime Time"
+        },
+        {
+            "id": 216,
+            "name": "Dreadbringer"
+        },
+        {
+            "id": 320,
+            "name": "Calculated Risk"
+        },
+        {
+            "id": 204,
+            "name": "Stackosaurus Rex"
+        },
+        {
+            "id": 206,
+            "name": "escAPADe"
+        },
+        {
+            "id": 194,
+            "name": "Fey Magic"
+        },
+        {
+            "id": 36,
+            "name": "Firebrand"
+        },
+        {
+            "id": 219,
+            "name": "Doomsayer"
+        },
+        {
+            "id": 116,
+            "name": "Flashy"
+        },
+        {
+            "id": 177,
+            "name": "Nesting Doll"
+        },
+        {
+            "id": 81,
+            "name": "Tap Dancer"
+        },
+        {
+            "id": 220,
+            "name": "Fan the Hammer"
+        },
+        {
+            "id": 85,
+            "name": "Tormentor"
+        },
+        {
+            "id": 104,
+            "name": "Minionmancer"
+        },
+        {
+            "id": 313,
+            "name": "Tank Engine"
+        },
+        {
+            "id": 29,
+            "name": "Ethereal Weapon"
+        },
+        {
+            "id": 62,
+            "name": "Omni Soul"
+        },
+        {
+            "id": 20,
+            "name": "Dawnbringer's Resolve"
+        },
+        {
+            "id": 207,
+            "name": "Hold Very Still"
+        },
+        {
+            "id": 38,
+            "name": "From Beginning to End"
+        },
+        {
+            "id": 240,
+            "name": "Parasitic Mutation"
+        },
+        {
+            "id": 11,
+            "name": "Can't Touch This"
+        },
+        {
+            "id": 176,
+            "name": "Snowball Fight!"
+        },
+        {
+            "id": 47,
+            "name": "It's Critical"
+        },
+        {
+            "id": 200,
+            "name": "Blood Brother"
+        },
+        {
+            "id": 112,
+            "name": "Ultimate Unstoppable"
+        },
+        {
+            "id": 68,
+            "name": "Recursion"
+        },
+        {
+            "id": 228,
+            "name": "Stats on Stats on Stats!"
+        },
+        {
+            "id": 22,
+            "name": "Deft"
+        },
+        {
+            "id": 41,
+            "name": "Goliath"
+        },
+        {
+            "id": 242,
+            "name": "Juice Press"
+        },
+        {
+            "id": 305,
+            "name": "Leg Day"
+        },
+        {
+            "id": 221,
+            "name": "Trailblazer"
+        },
+        {
+            "id": 1,
+            "name": "Accelerating Sorcery"
+        },
+        {
+            "id": 208,
+            "name": "Orbital Laser"
+        },
+        {
+            "id": 58,
+            "name": "Mystic Punch"
+        },
+        {
+            "id": 105,
+            "name": "Homeguard"
+        },
+        {
+            "id": 3,
+            "name": "Null Augment"
+        },
+        {
+            "id": 241,
+            "name": "Hat Trick"
+        },
+        {
+            "id": 181,
+            "name": "Heavy Hitter"
+        },
+        {
+            "id": 67,
+            "name": "Rabble Rousing"
+        },
+        {
+            "id": 195,
+            "name": "Giant Slayer"
+        },
+        {
+            "id": 238,
+            "name": "Transmute: Prismatic"
+        },
+        {
+            "id": 40,
+            "name": "Frozen Foundations"
+        },
+        {
+            "id": 118,
+            "name": "Critical Healing"
+        },
+        {
+            "id": 237,
+            "name": "Transmute: Gold"
+        },
+        {
+            "id": 2,
+            "name": "Apex Inventor"
+        },
+        {
+            "id": 172,
+            "name": "Mirror Image"
+        },
+        {
+            "id": 218,
+            "name": "Desecrator"
+        },
+        {
+            "id": 141,
+            "name": "All For You"
+        },
+        {
+            "id": 50,
+            "name": "Keystone Conjurer"
+        },
+        {
+            "id": 174,
+            "name": "Laser Eyes"
+        },
+        {
+            "id": 326,
+            "name": "Spirit Infusion"
+        },
+        {
+            "id": 227,
+            "name": "Stats on Stats!"
+        },
+        {
+            "id": 19,
+            "name": "Dashing"
+        },
+        {
+            "id": 229,
+            "name": "Fire Sale"
+        },
+        {
+            "id": 52,
+            "name": "Lightning Strikes"
+        },
+        {
+            "id": 69,
+            "name": "Repulsor"
+        },
+        {
+            "id": 113,
+            "name": "Skilled Sniper"
+        },
+        {
+            "id": 175,
+            "name": "Parasitic Relationship"
+        },
+        {
+            "id": 165,
+            "name": "Restart"
+        },
+        {
+            "id": 134,
+            "name": "Draw Your Sword"
+        },
+        {
+            "id": 70,
+            "name": "Restless Restoration"
+        },
+        {
+            "id": 25,
+            "name": "Dive Bomber"
+        },
+        {
+            "id": 303,
+            "name": "Sacrifice: For Gold"
+        },
+        {
+            "id": 7,
+            "name": "Blunt Force"
+        },
+        {
+            "id": 109,
+            "name": "Oathsworn"
+        },
+        {
+            "id": 187,
+            "name": "Flashbang"
+        },
+        {
+            "id": 123,
+            "name": "Summoner's Roulette"
+        },
+        {
+            "id": 302,
+            "name": "Sacrifice: For Silver"
+        },
+        {
+            "id": 74,
+            "name": "Shrink Ray"
+        },
+        {
+            "id": 12,
+            "name": "Castle"
+        },
+        {
+            "id": 152,
+            "name": "Quest: Steel Your Heart"
+        },
+        {
+            "id": 32,
+            "name": "Executioner"
+        },
+        {
+            "id": 18,
+            "name": "Courage of the Colossus"
+        },
+        {
+            "id": 222,
+            "name": "Fruits of Your Labor"
+        },
+        {
+            "id": 46,
+            "name": "Infernal Soul"
+        },
+        {
+            "id": 16,
+            "name": "Combo Master"
+        },
+        {
+            "id": 215,
+            "name": "Dark Blessing"
+        },
+        {
+            "id": 56,
+            "name": "Mind to Matter"
+        },
+        {
+            "id": 211,
+            "name": "It's Killing Time"
+        },
+        {
+            "id": 96,
+            "name": "Wisdom of Ages"
+        },
+        {
+            "id": 304,
+            "name": "Sacrifice: For Prismatic"
+        },
+        {
+            "id": 43,
+            "name": "Now You See Me"
+        },
+        {
+            "id": 64,
+            "name": "Perseverance"
+        },
+        {
+            "id": 48,
+            "name": "Jeweled Gauntlet"
+        },
+        {
+            "id": 309,
+            "name": "And My Axe!"
+        }
+    ]
+}
