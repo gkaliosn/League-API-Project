@@ -129,8 +129,9 @@ for player in players:
 game.augmentPicks = dict(sorted(game.augmentPicks.items(), key=lambda item: item[1], reverse=True))
 game.augmentWins = dict(sorted(game.augmentWins.items(), key=lambda item: item[1], reverse=True))
 
+##############################################################################################
 game.augmentWinrates = {
-	augment: round((game.augmentWins.get(game, 0) / game.augmentPicks[augment]) * 100 ,2)
+	augment: round((game.augmentWins.get(augment, 0) / game.augmentPicks[augment]) * 100 ,2)
 	for augment in game.augmentPicks 
 	}
 
